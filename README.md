@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=OwlNet+%F0%9F%A6%89;MultiTool+for+Security+Testing;WebDoS+%7C+Spammer+%7C+Nuker" alt="Typing SVG" />
 </p>
@@ -16,7 +15,9 @@
 
 OwlNet is a powerful, modular multi-tool written in Python, designed for **educational purposes** and **authorized penetration testing**. With a sleek terminal interface and robust proxy support, it's built for security researchers and ethical hackers who need reliable tools for testing and analysis.
 
-### 🎯 **What's Inside**
+---
+
+## 🎯 **What's Inside**
 
 | Tool | Description |
 |------|-------------|
@@ -182,10 +183,6 @@ Contributions are welcome! If you'd like to improve OwlNet, add new features, or
 
 ---
 
-For issues, suggestions, or questions, please open an issue on GitHub.
-
----
-
 ## ⭐ **Support the Project**
 
 If you find OwlNet useful, please give it a ⭐ on GitHub and share it with the community!
@@ -201,4 +198,3 @@ If you find OwlNet useful, please give it a ⭐ on GitHub and share it with the 
   <img src="https://img.shields.io/github/forks/esfelurm/OwlNet?style=social" />
   <img src="https://img.shields.io/github/watchers/esfelurm/OwlNet?style=social" />
 </p>
-```
