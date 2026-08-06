@@ -40,25 +40,6 @@ OwlNet is a powerful, modular multi-tool written in Python, designed for **educa
 - 🛡️ **Anti-Rate Limit Bypass** — Smart retry logic and proxy rotation to avoid IP bans.
 - 📦 **Zero External Databases** — All proxies are scraped live from public lists.
 
----
-
-## 📸 **Screenshots**
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/1a1a2e/00ffaa?text=OwlNet+Main+Menu" alt="Main Menu" width="80%"/>
-  <br>
-  <i>OwlNet Main Menu</i>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/1a1a2e/00ffaa?text=WebDoS+in+Action" alt="WebDoS" width="80%"/>
-  <br>
-  <i>WebDoS Attack Simulation</i>
-</p>
-
-> 💡 *Replace placeholder images with actual screenshots of OwlNet in action.*
-
----
 
 ## 🛠️ **Installation**
 
